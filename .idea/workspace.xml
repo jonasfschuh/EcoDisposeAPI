@@ -44,6 +44,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.EcoDisposeAPI [clean].executor": "Run",
+    "Maven.EcoDisposeAPI [compile].executor": "Run",
+    "Maven.EcoDisposeAPI [package].executor": "Run",
     "Maven.JavaRESTFulApi [clean].executor": "Run",
     "Maven.JavaRESTFulApi [compile].executor": "Run",
     "Maven.JavaRESTFulApi [deploy].executor": "Run",
@@ -64,6 +67,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
@@ -76,7 +82,7 @@
       <recent name="D:\DEV\Java\_Projetos\JavaRESTFulApi\docs\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application dev">
+  <component name="RunManager" selected="Spring Boot.Application prd">
     <configuration name="Application dev" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <envs>
         <env name="SPRING_PROFILES_ACTIVE" value="dev" />
@@ -90,9 +96,9 @@
     <configuration name="Application prd" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <envs>
         <env name="PGDATABASE" value="railway" />
-        <env name="PGHOST" value="autorack.proxy.rlwy.net" />
-        <env name="PGPASSWORD" value="HbtCfjXqQDXswRkpNAARLAWRQXXAlxSA" />
-        <env name="PGPORT" value="28474" />
+        <env name="PGHOST" value="junction.proxy.rlwy.net" />
+        <env name="PGPASSWORD" value="fOJgpZMOoiGgpHuJdHdMiQCpNhMaszfZ" />
+        <env name="PGPORT" value="53268" />
         <env name="PGUSER" value="postgres" />
         <env name="SPRING_PROFILES_ACTIVE" value="prd" />
       </envs>
@@ -117,7 +123,7 @@
       <updated>1724630014502</updated>
       <workItem from="1724630015508" duration="757000" />
       <workItem from="1724630905954" duration="36839000" />
-      <workItem from="1724776915566" duration="14711000" />
+      <workItem from="1724776915566" duration="17896000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit.">
       <option name="closed" value="true" />
