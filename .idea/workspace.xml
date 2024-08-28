@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89b04a92-5fb6-488b-8485-78cae5fb9723" name="Changes" comment="(feat) add screnshots" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lAjwcGEA19Iljgrn6vmhnIXN0a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.JavaRESTFulApi [clean].executor": "Run",
+    "Maven.JavaRESTFulApi [compile].executor": "Run",
+    "Maven.JavaRESTFulApi [deploy].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application dev.executor": "Run",
+    "Spring Boot.Application prd.executor": "Run",
+    "Spring Boot.JavaRestFulApiApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DEV/Java/_Projetos/EcoDisposeAPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\Java\_Projetos\JavaRESTFulApi\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DEV\Java\_Projetos\JavaRESTFulApi\docs\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application dev">
+    <configuration name="Application dev" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <envs>
+        <env name="SPRING_PROFILES_ACTIVE" value="dev" />
+      </envs>
+      <module name="EcoDisposeAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.jonasfschuh.EcoDisposeAPI.EcoDisposeAPIApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application prd" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <envs>
+        <env name="PGDATABASE" value="railway" />
+        <env name="PGHOST" value="autorack.proxy.rlwy.net" />
+        <env name="PGPASSWORD" value="HbtCfjXqQDXswRkpNAARLAWRQXXAlxSA" />
+        <env name="PGPORT" value="28474" />
+        <env name="PGUSER" value="postgres" />
+        <env name="SPRING_PROFILES_ACTIVE" value="prd" />
+      </envs>
+      <module name="EcoDisposeAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.jonasfschuh.EcoDisposeAPI.EcoDisposeAPIApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application dev" />
+      <item itemvalue="Spring Boot.Application prd" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b04a92-5fb6-488b-8485-78cae5fb9723" name="Changes" comment="" />
+      <created>1724630014502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724630014502</updated>
+      <workItem from="1724630015508" duration="757000" />
+      <workItem from="1724630905954" duration="36839000" />
+      <workItem from="1724776915566" duration="14711000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit.">
+      <option name="closed" value="true" />
+      <created>1724631272915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724631272915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit.">
+      <option name="closed" value="true" />
+      <created>1724632099966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724632099966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit.">
+      <option name="closed" value="true" />
+      <created>1724632433335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724632433335</updated>
+    </task>
+    <task id="LOCAL-00004" summary="domain creation">
+      <option name="closed" value="true" />
+      <created>1724636086932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724636086932</updated>
+    </task>
+    <task id="LOCAL-00005" summary="domain adjusts">
+      <option name="closed" value="true" />
+      <created>1724636709236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724636709236</updated>
+    </task>
+    <task id="LOCAL-00006" summary="domain adjusts">
+      <option name="closed" value="true" />
+      <created>1724638894123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724638894123</updated>
+    </task>
+    <task id="LOCAL-00007" summary="properties.yml">
+      <option name="closed" value="true" />
+      <created>1724638960994</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724638960994</updated>
+    </task>
+    <task id="LOCAL-00008" summary="precision = 13, scale = 2 adjust">
+      <option name="closed" value="true" />
+      <created>1724639139005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724639139005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="business layer">
+      <option name="closed" value="true" />
+      <created>1724640256704</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724640256704</updated>
+    </task>
+    <task id="LOCAL-00010" summary="endpoints REST">
+      <option name="closed" value="true" />
+      <created>1724643420792</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724643420792</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Deploy on Railway">
+      <option name="closed" value="true" />
+      <created>1724647572038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724647572038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Deploy on Railway">
+      <option name="closed" value="true" />
+      <created>1724647856246</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724647856246</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Cors adjust">
+      <option name="closed" value="true" />
+      <created>1724649176351</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724649176351</updated>
+    </task>
+    <task id="LOCAL-00014" summary="(feat) inclusion of CRUD functionality">
+      <option name="closed" value="true" />
+      <created>1724760565090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724760565090</updated>
+    </task>
+    <task id="LOCAL-00015" summary="(fix) adjustments in readme">
+      <option name="closed" value="true" />
+      <created>1724760771047</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724760771047</updated>
+    </task>
+    <task id="LOCAL-00016" summary="(fix) adjustments in readme">
+      <option name="closed" value="true" />
+      <created>1724760845249</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724760845249</updated>
+    </task>
+    <task id="LOCAL-00017" summary="(feat) add screnshots">
+      <option name="closed" value="true" />
+      <created>1724763186192</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724763186192</updated>
+    </task>
+    <task id="LOCAL-00018" summary="(feat) add screnshots">
+      <option name="closed" value="true" />
+      <created>1724764653035</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724764653035</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="initial commit." />
+    <MESSAGE value="domain creation" />
+    <MESSAGE value="domain adjusts" />
+    <MESSAGE value="properties.yml" />
+    <MESSAGE value="precision = 13, scale = 2 adjust" />
+    <MESSAGE value="business layer" />
+    <MESSAGE value="endpoints REST" />
+    <MESSAGE value="Deploy on Railway" />
+    <MESSAGE value="Cors adjust" />
+    <MESSAGE value="(feat) inclusion of CRUD functionality" />
+    <MESSAGE value="(fix) adjustments in readme" />
+    <MESSAGE value="(feat) add screnshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="(feat) add screnshots" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/jonasfschuh/EcoDisposeAPI/service/impl/CollectionPointServiceImpl.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
