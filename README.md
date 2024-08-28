@@ -168,7 +168,7 @@ Example POST data
 
 The API provides the following endpoints:
 
-*picture
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/CollectionPointControllerEndPoints.gif?raw=true&sanitize=true)
 
 ## Contributing
 
@@ -192,8 +192,8 @@ Postgres running on railway
 Public network to access application. 
 ![Public network to access application](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/public%20network%20to%20access%20application.gif?raw=true&sanitize=true)
 
-Retrieve a list of all registered users example
-![Retrieve a list of all registered users example](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/Retrieve%20a%20list%20of%20all%20registered%20users%20example.gif?raw=true&sanitize=true)
+Retrieve a list of all registered collection points example
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/GetAllCollectionPointsExample.gif?raw=true&sanitize=true)
 
 
 
