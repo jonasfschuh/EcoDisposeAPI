@@ -65,7 +65,7 @@ Notes: This service allows you to configure a domain to expose this service and 
 6. Below is an example generated in my configuration to access swagger-ui.
 
 Interface for testing with swagger-ui - on railway cloud
-https://ecodispose-api.railway.app/swagger-ui/index.html
+https://ecodispose-api.up.railway.app/swagger-ui/index.html
 
 ## Class-diagram
 
