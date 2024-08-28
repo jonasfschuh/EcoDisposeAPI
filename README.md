@@ -181,7 +181,7 @@ When contributing to this project, please follow the existing code style, [commi
 Railway dashboard with CI/CD from github.
 
 Every time a push is made to the main branch of the repository, the application is compiled and deployed automatically.
-![railway dashboard](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/railway_dashboard.gif?raw=true&sanitize=true) 
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/Railway%20environment%20CI-CD.gif?raw=true&sanitize=true) 
 
 Log details
 ![Log details](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/logs_details.gif?raw=true&sanitize=true)
