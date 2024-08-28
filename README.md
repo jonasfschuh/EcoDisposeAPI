@@ -184,13 +184,13 @@ Every time a push is made to the main branch of the repository, the application 
 ![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/Railway%20environment%20CI-CD.gif?raw=true&sanitize=true) 
 
 Log details
-![Log details](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/logs_details.gif?raw=true&sanitize=true)
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/application%20logs.gif?raw=true&sanitize=true)
 
 Postgres running on railway
-![Postgres running on railway](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/postgres%20running%20on%20railway.gif?raw=true&sanitize=true)
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/postgres%20on%20railway.gif?raw=true&sanitize=true)
 
 Public network to access application. 
-![Public network to access application](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/public%20network%20to%20access%20application.gif?raw=true&sanitize=true)
+![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/custom%20domain.gif?raw=true&sanitize=true)
 
 Retrieve a list of all registered collection points example
 ![](https://github.com/jonasfschuh/EcoDisposeAPI/blob/main/docs/img/GetAllCollectionPointsExample.gif?raw=true&sanitize=true)
